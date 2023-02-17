@@ -1,0 +1,12 @@
+17
+Monster
+Star Boy
+Agua
+inc;
+Agua
+2
+550
+500
+0
+photos\Star Boy.png
+photos\IMG_5639.png

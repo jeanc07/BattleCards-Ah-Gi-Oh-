@@ -1,0 +1,12 @@
+13
+Monster
+Ocean Dragon Lord-Neo-Daedalus
+Agua
+des;
+Serpiente Marina
+8
+2900
+1600
+0
+photos\Ocean Dragon Lord Neo Daedalus.png
+photos\IMG_5639.png

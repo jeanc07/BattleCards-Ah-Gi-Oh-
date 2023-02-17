@@ -1,0 +1,10 @@
+4
+Monster
+Fenrir
+Agua
+inv
+Bestia
+4
+1400
+1200
+0

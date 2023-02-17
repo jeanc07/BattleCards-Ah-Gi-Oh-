@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InterfaceGame/1.0.0": {
+        "dependencies": {
+          "Cards": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceGame.dll": {}
+        }
+      },
+      "Cards/1.0.0": {
+        "runtime": {
+          "Cards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

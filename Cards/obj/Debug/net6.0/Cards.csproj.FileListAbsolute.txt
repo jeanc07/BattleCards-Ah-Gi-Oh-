@@ -1,0 +1,36 @@
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\bin\Debug\net6.0\Cards.deps.json
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\bin\Debug\net6.0\Cards.dll
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\bin\Debug\net6.0\ref\Cards.dll
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\bin\Debug\net6.0\Cards.pdb
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\Cards.dll
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\ref\Cards.dll
+F:\MATCOM\Projects CC\Trading Card Game (Yu-Gi-Oh)\Cards\obj\Debug\net6.0\Cards.pdb
+F:\MATCOM\Projects CC\BattleCards\Cards\bin\Debug\net6.0\Cards.deps.json
+F:\MATCOM\Projects CC\BattleCards\Cards\bin\Debug\net6.0\Cards.dll
+F:\MATCOM\Projects CC\BattleCards\Cards\bin\Debug\net6.0\ref\Cards.dll
+F:\MATCOM\Projects CC\BattleCards\Cards\bin\Debug\net6.0\Cards.pdb
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.dll
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\ref\Cards.dll
+F:\MATCOM\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.pdb
+C:\My things\Projects CC\BattleCards\Cards\bin\Debug\net6.0\Cards.deps.json
+C:\My things\Projects CC\BattleCards\Cards\bin\Debug\net6.0\Cards.dll
+C:\My things\Projects CC\BattleCards\Cards\bin\Debug\net6.0\Cards.pdb
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.dll
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\Cards.pdb
+C:\My things\Projects CC\BattleCards\Cards\obj\Debug\net6.0\ref\Cards.dll
+C:\My things\Projects CC\BattleCards\Cards\bin\Debug\net6.0\ref\Cards.dll

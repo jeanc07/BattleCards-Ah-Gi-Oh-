@@ -1,0 +1,12 @@
+4
+Monster
+Fenrir
+Agua
+inv;
+Bestia
+4
+1400
+1200
+0
+photos\Fenrir.png
+photos\IMG_5639.png

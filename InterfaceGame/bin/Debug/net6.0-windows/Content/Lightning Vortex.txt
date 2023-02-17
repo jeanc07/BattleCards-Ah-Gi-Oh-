@@ -1,0 +1,9 @@
+24
+Magic
+Lightning Vortex
+Hechizo
+Hechizo
+des;
+0
+photos\Lightning Vortex.png
+photos\IMG_5639.png

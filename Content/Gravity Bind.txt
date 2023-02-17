@@ -1,0 +1,7 @@
+5
+Trap
+Gravity Bind
+Trap
+Trap
+inc
+0

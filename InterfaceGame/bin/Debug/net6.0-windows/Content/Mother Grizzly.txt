@@ -1,0 +1,12 @@
+11
+Monster
+Mother Grizzly
+Agua
+inv;
+Bestia-Guerrero
+4
+1400
+1000
+0
+photos\Mother Grizzly.png
+photos\IMG_5639.png

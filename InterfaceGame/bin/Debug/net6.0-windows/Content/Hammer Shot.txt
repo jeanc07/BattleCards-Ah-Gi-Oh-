@@ -1,0 +1,9 @@
+22
+Magic
+Hammer Shot
+Hechizo
+Hechizo
+des;
+0
+photos\Hammer Shot.png
+photos\IMG_5639.png

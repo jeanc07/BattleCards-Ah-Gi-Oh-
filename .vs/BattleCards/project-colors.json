@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47aa6706-7db6-43c5-812e-05cc975bb58d": {
+      "ProjectGuid": "47aa6706-7db6-43c5-812e-05cc975bb58d",
+      "DisplayName": "GameInterface",
+      "ColorIndex": 0
+    },
+    "30e0ac0a-1c67-4576-b38a-ac1c68cfae4f": {
+      "ProjectGuid": "30e0ac0a-1c67-4576-b38a-ac1c68cfae4f",
+      "DisplayName": "Gamelogic",
+      "ColorIndex": 1
+    },
+    "5e3e8772-2000-4c87-a9db-60d82405054a": {
+      "ProjectGuid": "5e3e8772-2000-4c87-a9db-60d82405054a",
+      "DisplayName": "Cards",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b2ef7c4c-ad63-4a0e-b84b-a7ba52ca6aac": {
+      "ProjectGuid": "b2ef7c4c-ad63-4a0e-b84b-a7ba52ca6aac",
+      "DisplayName": "GameInterface2",
+      "ColorIndex": 3
+    },
+    "8f667113-bd78-44b8-97f3-01d3d9cb49ba": {
+      "ProjectGuid": "8f667113-bd78-44b8-97f3-01d3d9cb49ba",
+      "DisplayName": "GameInterface2",
+      "ColorIndex": 4
+    },
+    "33f95924-ce09-4a71-ba64-5c99aba4ac0d": {
+      "ProjectGuid": "33f95924-ce09-4a71-ba64-5c99aba4ac0d",
+      "DisplayName": "InterfaceGame",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

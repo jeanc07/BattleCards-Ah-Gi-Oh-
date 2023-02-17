@@ -1,0 +1,9 @@
+15
+Magic
+Salvage
+Hechizo
+Hechizo
+rev;
+0
+photos\Salvage.png
+photos\IMG_5639.png

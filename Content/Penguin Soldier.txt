@@ -1,0 +1,10 @@
+14
+Monster
+Penguin Soldier
+Agua
+sub
+Agua
+2
+750
+500
+0

@@ -1,0 +1,12 @@
+26
+Monster
+Bugroth Anphib MK-3
+Agua
+atq;
+Machine
+4
+1500
+1300
+0
+photos\Amphibious Bugroth MK-3.png
+photos\IMG_5639.png

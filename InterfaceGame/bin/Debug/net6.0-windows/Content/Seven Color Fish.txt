@@ -1,0 +1,12 @@
+20
+Monster
+Seven Color Fish
+Agua
+rea;
+Fish
+4
+1800
+800
+0
+photos\Seven Colored Fish.png
+photos\IMG_5639.png

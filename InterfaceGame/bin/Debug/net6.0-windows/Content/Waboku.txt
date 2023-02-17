@@ -1,0 +1,9 @@
+19
+Trap
+Waboku
+Trap
+Trap
+roc;
+0
+photos\Waboku.png
+photos\IMG_5639.png

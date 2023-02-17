@@ -1,0 +1,12 @@
+25
+Monster
+Nemesis Reptant Mantha
+Agua
+atq;
+Fish
+3
+1300
+1200
+0
+photos\Nemesis Reptant MAntha.png
+photos\IMG_5639.png
